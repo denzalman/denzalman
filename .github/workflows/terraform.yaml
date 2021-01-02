@@ -1,8 +1,8 @@
 name: 'Terraform Plan'
 on: [push, pull_request, workflow_dispatch]
 defaults:
-   run:
-     shell: bash
+  run:
+    shell: bash
 jobs:
   terraform:
     name: 'Terraform'
