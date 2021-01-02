@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//wata727/tf_aws_ecs_on_spotfleet/pull/6) in [wata727/tf_aws_ecs_on_spotfleet](https://github.com//wata727/tf_aws_ecs_on_spotfleet)
+1. ❗️ Closed issue [#435](https://github.com/dtan4/terraforming/issues/435) in [dtan4/terraforming](https://github.com/dtan4/terraforming)
 2. ❗️ Opened issue [#5](https://github.com//wata727/tf_aws_ecs_on_spotfleet/issues/5) in [wata727/tf_aws_ecs_on_spotfleet](https://github.com//wata727/tf_aws_ecs_on_spotfleet)
 <!--END_SECTION:activity-->
 
