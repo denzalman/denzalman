@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Den's Spotify Playing" width="350" />](https://open.spotify.com/user/q0ykregly6ahe547h0pgl7x3s)
-
-
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#490](https://github.com/vas3k/vas3k.club/pull/490) in [vas3k/vas3k.club](https://github.com/vas3k/vas3k.club)
